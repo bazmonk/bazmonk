@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bazmonk
-- 👀 I’m interested in hurdy gurdies
-- 🌱 I’m currently learning Prometheus stuff
-- 💞️ I’m looking to collaborate on digigurdy turning menu overhaul
+- 👀 I’m interested in the Digi-Gurdy (https://digigurdy.com).  What started with making a few simple edits of its code has turned into a complete reimagining of the code, which is now what runs on them!  Everything here pertains to that.
 - 📫 How to reach me: post an issue in a repo
 
 <!---
